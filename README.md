@@ -6,8 +6,8 @@
 * E-Mail：tina8243@gmail.com
 * Personal Website： https://github.com/tina1461
 
-## 技能 Skill
 ***
+## 技能 Skill
 
 * HTML
     - [ ] 了解DOM基本架構
@@ -36,9 +36,9 @@
 * 其他 Other
     - [ ] gulp
     - [ ] webpack
+***
 
 ## 工作與經歷 Experience
-***
 
 `工作`
 #### 1. 好管家理財科技 `前端工程師`
@@ -51,7 +51,7 @@
 #### 1. 雄獅旅遊規劃-手機版網站(內部使用)
 > `2017.9 - 2017.10`
 
-
+***
 
 
 
