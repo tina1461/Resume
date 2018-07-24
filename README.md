@@ -18,6 +18,7 @@
     - [ ] 熟悉css預處理框架 SCSS,SASS: @mixin,@extend,@if,@each
 * JavaScript
     - [ ] 熟悉jQuery
+        * 指令,plugin
     - [ ] 原生JavaScript
         * 熟悉ES5指令
         * 了解部分ES6指令
@@ -32,8 +33,32 @@
         * iView
     - [ ] Js Framework
         * Vue.js,Vue-cli
+* 其他 Other
+    - [ ] gulp
+    - [ ] webpack
 
-## 工作經歷 Experience
+## 工作與經歷 Experience
+***
+
+`工作`
+#### 1. 好管家理財科技 `前端工程師`
+> `2017.10 - 至今`
+
+#### 2. 美商沃科 `前端工程師`
+> `2017.02 - 2017.08`
+
+`接案`
+#### 1. 雄獅旅遊規劃-手機版網站(內部使用)
+> `2017.9 - 2017.10`
+
+
+
+
+
+
+
+
+
 
 
 
