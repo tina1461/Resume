@@ -17,7 +17,8 @@
 2. 參與案子需求分析、設計規劃、編程
 3. Vue.js 、RWD、SPA
 4. 旅遊行程規劃、保險智慧投保、財務金融相關專案
-
+    - 雄獅旅遊內部業務網站
+    - 磐石保經網路投保網站
 #### 2. 美商沃科 
 > `網頁前端工程師`
 
@@ -85,14 +86,14 @@ Moxbii 2015(目前已下線)
         * 熟悉ES5指令
         * 了解部分ES6指令
     - [ ] Vue
-        * Vue-router,Vux,EventBus,props
+        * Vue-router,Vuex,EventBus,props
 * Framework
     - [ ] UI Framework:
         * Bootstrap
         * Semantic UI
-        * tabler
+        * tabler UI
         * Element UI
-        * iView
+        * iView UI
     - [ ] Js Framework
         * Vue.js,Vue-cli
 * 其他 Other
