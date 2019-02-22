@@ -73,32 +73,32 @@ Moxbii 2015(目前已下線)
 ## 技能 Skill
 
 * HTML
-    - [ ] 了解DOM基本架構
+    - [V] 了解DOM基本架構
 * CSS3
-    - [ ] 排版: flexbox,grid,position...等
-    - [ ] 了解  Pseudo Element 使用
-    - [ ] 了解轉場 transitions, 動畫animations: @keyframes , transform 使用
-    - [ ] 熟悉css預處理框架 SCSS,SASS: @mixin,@extend,@if,@each
+    - [V] 排版: flexbox,grid,position...等
+    - [V] 了解  Pseudo Element 使用
+    - [V] 了解轉場 transitions, 動畫animations: @keyframes , transform 使用
+    - [V] 熟悉css預處理框架 SCSS,SASS: @mixin,@extend,@if,@each
 * JavaScript
-    - [ ] 熟悉jQuery
+    - [V] 熟悉jQuery
         * 指令,plugin
-    - [ ] 原生JavaScript
+    - [V] 原生JavaScript
         * 熟悉ES5指令
         * 了解部分ES6指令
-    - [ ] Vue
+    - [V] Vue
         * Vue-router,Vuex,EventBus,props
 * Framework
-    - [ ] UI Framework:
+    - [V] UI Framework:
         * Bootstrap
         * Semantic UI
         * tabler UI
         * Element UI
         * iView UI
-    - [ ] Js Framework
+    - [V] Js Framework
         * Vue.js,Vue-cli
 * 其他 Other
-    - [ ] gulp
-    - [ ] webpack
+    - [V] gulp
+    - [V] webpack
 
 ***
 
