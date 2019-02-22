@@ -84,7 +84,7 @@ Moxbii 2015(目前已下線)
         * 指令,plugin
     - [ ] 原生JavaScript
         * 熟悉ES5指令
-        * 了解部分ES6指令
+        * 熟悉部分ES6指令
     - [ ] Vue
         * Vue-router,Vuex,EventBus,props
 * Framework
