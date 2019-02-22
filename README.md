@@ -69,10 +69,6 @@ Moxbii 2015(目前已下線)
 2. ui 由雄獅提供，手刻完成
 3. google map api 搭載 owl-carousel 實現地圖景點 slide 選擇
 
-`自助旅遊規劃`
-1. [韓國首爾5日遊](https://trello.com/b/FqUQQTgG "韓國首爾5日遊 旅遊規劃")
-2. [歐洲五國22日遊](https://medium.com/ct-pg/2019-europe-travel-planing-5ff464596e5d "歐洲五國22日遊 旅遊規劃")
-
 ***
 
 ## 技能 Skill
